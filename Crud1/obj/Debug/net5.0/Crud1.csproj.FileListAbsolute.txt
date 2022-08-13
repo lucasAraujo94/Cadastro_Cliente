@@ -5,7 +5,6 @@ C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\Crud1.deps.json
 C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\Crud1.runtimeconfig.json
 C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\Crud1.runtimeconfig.dev.json
 C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\Crud1.dll
-C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\ref\Crud1.dll
 C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\Crud1.pdb
 C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\Crud1.Views.dll
 C:\Users\Usuário\source\repos\Crud1\Crud1\bin\Debug\net5.0\Crud1.Views.pdb
@@ -148,3 +147,4 @@ C:\Users\Usuário\source\repos\Crud1\Crud1\obj\Debug\net5.0\Razor\Views\Clientes
 C:\Users\Usuário\source\repos\Crud1\Crud1\obj\Debug\net5.0\Razor\Views\Clientes\Details.cshtml.g.cs
 C:\Users\Usuário\source\repos\Crud1\Crud1\obj\Debug\net5.0\Razor\Views\Clientes\Edit.cshtml.g.cs
 C:\Users\Usuário\source\repos\Crud1\Crud1\obj\Debug\net5.0\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\Usuário\source\repos\Crud1\Crud1\obj\Debug\net5.0\refint\Crud1.dll
